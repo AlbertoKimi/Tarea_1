@@ -1,0 +1,53 @@
+    Python es uno de los lenguajes de programación más populares y versátiles
+    del mundo actual. Creado a finales de los años ochenta por el informático
+    neerlandés Guido van Rossum y publicado oficialmente en 1991, este
+    lenguaje nació con una filosofía muy clara: priorizar la legibilidad del
+    código por encima de todo. Su nombre, curiosamente, no proviene de la
+    serpiente, sino de la devoción de su creador por el grupo británico de
+    comediantes Monty Python.
+
+    La característica fundamental que distingue a Python es su sintaxis limpia
+    y directa. A diferencia de lenguajes tradicionales como C, C++ o Java,
+    donde abundan las llaves, los puntos y coma y las declaraciones explícitas
+    de tipos de datos, Python opta por una estructura basada en la indentación
+    obligatoria. Esto significa que los bloques de código se definen por los
+    espacios en blanco y las sangrías, lo que fuerza a escribir programas
+    ordenados y fáciles de interpretar. La famosa máxima del Zen de Python lo
+    resume a la perfección: «lo explícito es mejor que lo implícito» y «lo
+    simple es mejor que lo complejo».
+
+    Desde el punto de vista técnico, es un lenguaje interpretado, dinámico y
+    multiparadigma. Al ser interpretado, el código se ejecuta línea por línea
+    mediante un intérprete, lo que acelera los ciclos de desarrollo y facilita
+    la depuración de errores. Su tipado dinámico permite definir variables sin
+    especificar su tipo de dato, adaptándose automáticamente según el valor
+    asignado. Además, admite diferentes enfoques de desarrollo: soporta la
+    programación orientada a objetos, la programación funcional y el paradigma
+    procedimental o imperativo, otorgando al programador absoluta libertad
+    para resolver cada problema con la arquitectura más adecuada.
+
+    El verdadero motor del éxito de Python radica en su inmenso ecosistema de
+    bibliotecas y herramientas de código abierto. En el campo del análisis de
+    datos y la inteligencia artificial, se ha convertido en el estándar global
+    por excelencia. Bibliotecas como NumPy y Pandas facilitan la manipulación
+    matemática y tabular de grandes volúmenes de información, mientras que
+    marcos de trabajo como TensorFlow, PyTorch y Scikit-learn impulsan las
+    arquitecturas modernas de aprendizaje automático y redes neuronales
+    profundas.
+
+    Sin embargo, su utilidad trasciende con creces el ámbito de los datos. En
+    el desarrollo web, plataformas robustas como Django y Flask permiten
+    construir aplicaciones escalables y seguras en tiempos reducidos. En el
+    área de la administración de sistemas, redes y ciberseguridad, Python es
+    la herramienta de referencia para redactar guiones rápidos, automatizar
+    tareas repetitivas, interactuar con interfaces de programación (APIs) y
+    realizar pruebas de penetración o auditorías de red.
+
+    Aunque presenta ciertas desventajas, como una menor velocidad de ejecución
+    frente a lenguajes compilados de bajo nivel y un consumo de memoria más
+    elevado, su velocidad de desarrollo y facilidad de mantenimiento
+    compensan ampliamente estas limitaciones en la mayoría de los casos
+    prácticos. En definitiva, Python destaca por su accesibilidad para
+    principiantes y su enorme potencia para desarrolladores expertos,
+    consolidándose como una herramienta indispensable en la informática
+    contemporánea.
